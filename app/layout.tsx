@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Yus's Portfolio",
-  description: "Modern & Minimal JS Mastery Portfolio template from Adrian Hajdin",
+  description: "Hi, I’m M Yusril Sabir—a passionate Software Engineer with a solid background in full-stack development, AI integration, and large-scale web scraping. With over 2 years of professional experience, I specialize in building robust and scalable applications, leading small development teams, and delivering innovative solutions.",
 };
 
 export default function RootLayout({
